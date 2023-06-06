@@ -12,30 +12,30 @@ global.APIKeys = {
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '𝚅𝙸𝙽𝚂𝚂 𝙱𝙾𝚃𝚉'
-global.namaowner = '𝚅𝙸𝙽𝚂𝚂 𝙾𝙵𝙲'
+global.namabot = 'FIN MD'
+global.namaowner = 'FIN 𝙾𝙵𝙲'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285295374964']
-global.ownernomer = "6285295374964"
-global.premium = ['6285295374964']
+global.owner = ['6281345407953']
+global.ownernomer = "6282261065144"
+global.premium = ['6282261065144']
 global.ultah = 'private'
 
 //—————「 Setting Donasi 」—————//
-global.dana = '082275734206'
+global.dana = '081332995497'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = 'maxxyofc@gmail.com'
-global.namaweb = 'TokoBotz'
-global.myweb = 'https://lynk.id/kahfi.xd'
+global.email = 'alfinch18@gmail.com'
+global.namaweb = 'Fin OFC'
+global.myweb = 'https://;inktrr.ee/fin222'
 global.region = 'Indonesia'
-global.github = 'https://github.com/Maxxy-Botz'
-global.mygc = 'https://chat.whatsapp.com/K5zLkt3E6Ty1IZfSagtGuM'
-global.myig = 'https://instagram.com/maxxystore__'
+global.github = 'https://github.com/Raya2399'
+global.mygc = 'https://chat.whatsapp.com/BywcUntDkge90arrNWSLHP'
+global.myig = 'https://instagram.com/al_vin.233'
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝚅𝙸𝙽𝚂𝚂 𝙱𝙾𝚃𝚉\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙑𝙄𝙉𝙎𝙎 𝙊𝙁𝘾'
+global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 FIN MD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = 'DIBUAT OLEH FIN OFC\nIG = @al_vin.233'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
@@ -69,16 +69,16 @@ global.mess = {
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 10,
+    free: 45,
 }
 
 //—————「 Set Image 」—————//
-//global.thumb = 'https://telegra.ph/file/1537b118bad59ab8fa15e.png'
+//global.thumb = 'https://telegra.ph/file/357fcef6b4cd35df96569.jpg'
 global.thumb = fs.readFileSync('./media/image/adrian.jpg')
 global.kurome = { url: 'https://a.uguu.se/faLPPBPP.mp4' }
 global.botname = 'Vinss Creator'
-global.akulaku = 'Bot By 𝚅𝙸𝙽𝚂𝚂 𝙾𝙵𝙲'
-global.ttname = 'TikTok ind_vinss'
+global.akulaku = 'Bot By FIN 𝙾𝙵𝙲'
+global.ttname = 'TikTok alfin_ch1'
 
 //—————「 Set Random Image Menu 」—————//
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
